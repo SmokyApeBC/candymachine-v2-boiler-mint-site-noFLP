@@ -124,7 +124,7 @@ const App = () => {
             <h1 className="pb-3">THE SMOKY APE BASEMENT CLUB</h1>
             <p className="text-secondary-color">
               Mint price
-              - 1 SOL + gass fee 0.01197 SOL for the public sale
+              - 0.88 SOL for the 2nd presale
             </p>
           </div>
           <div>
@@ -174,7 +174,7 @@ const App = () => {
                 <div>
                   <h4>What will the price be?</h4>
                   <p>
-                  The public sale will be 1 SOL + gass fee 0.01197 SOL.
+                  The second presale will be 0.88 SOL.
                   </p>
 
                   <hr />
@@ -183,7 +183,7 @@ const App = () => {
                 <div>
                   <h4>How many can you mint per wallet?</h4>
                   <p>
-                  You will be able to mint 1 Apes per wallet.
+                  You will be able to mint 1 Apes per wallet at each presale.
                   </p>
 
                   <hr />
